@@ -1,0 +1,15 @@
+Text Files with Interest sites!
+
+https://brilliant.org/wiki/fibonacci-heap/
+
+https://www.geeksforgeeks.org/fibonacci-heap-set-1-introduction/
+
+https://www.geeksforgeeks.org/fibonacci-heap-insertion-and-union/
+
+https://www.sanfoundry.com/python-program-implement-fibonacci-heap/
+
+https://github.com/danielborowski/fibonacci-heap-python/blob/master/fib-heap.py
+
+https://pypi.org/project/fibonacci-heap-mod/
+
+https://github.com/renanoliveira/paa_20151/tree/master/shortest_path
